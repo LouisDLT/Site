@@ -1,0 +1,69 @@
+#logo {
+    width: 5em;
+}
+html{
+	background-color: black;
+	
+}
+body{
+	margin: 0;
+	background-color: white;
+}
+
+ul{
+	height: 15%;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #64a4ed;
+	width: 100%;
+	text-align: center;
+	vertical-align: all;
+
+
+}
+li{
+	display: inline-block;
+	width: 11%;
+	vertical-align: middle;
+	margin: 0;
+
+}
+li a{
+	
+	text-decoration: none;
+	color:white;
+
+}
+#entete{
+
+	height: 100vh;
+	width: 100vw;
+}
+#opening{
+		padding: 1%;
+		height: 84%;
+		width: 100%;
+        font-size: 20px; 
+        font-family: helvetica;          
+        margin: 0;          
+        background-color: #64a4ed; 
+        color:white; 
+}
+#opening p{
+
+	text-align: center;
+	color: white;
+	font-family: helvetica;
+	font-size: 23px;	
+}
+
+#login{
+	border-radius: 15%;
+	border-color: transparent;
+	border-style:solid;
+	background-color: orange;
+	border-width: 10px;
+	font-weight: bold;
+}
